@@ -1,0 +1,111 @@
+[
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-01T00:00:00Z",
+      "moistureLevel": 45.3,
+      "temperature": 21.5
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-01T01:00:00Z",
+      "moistureLevel": 44.8,
+      "temperature": 21.4
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-01T02:00:00Z",
+      "moistureLevel": 43.5,
+      "temperature": 21.2
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-02T00:00:00Z",
+      "moistureLevel": 42.7,
+      "temperature": 21.0
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-02T01:00:00Z",
+      "moistureLevel": 42.0,
+      "temperature": 20.9
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-03T00:00:00Z",
+      "moistureLevel": 41.0,
+      "temperature": 20.5
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-03T01:00:00Z",
+      "moistureLevel": 40.5,
+      "temperature": 20.4
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-03T02:00:00Z",
+      "moistureLevel": 40.0,
+      "temperature": 20.3
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-04T00:00:00Z",
+      "moistureLevel": 39.2,
+      "temperature": 20.0
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-04T01:00:00Z",
+      "moistureLevel": 38.8,
+      "temperature": 19.8
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-05T00:00:00Z",
+      "moistureLevel": 37.5,
+      "temperature": 19.5
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-05T01:00:00Z",
+      "moistureLevel": 37.0,
+      "temperature": 19.3
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-06T00:00:00Z",
+      "moistureLevel": 36.0,
+      "temperature": 19.0
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-06T01:00:00Z",
+      "moistureLevel": 35.5,
+      "temperature": 18.8
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-07T00:00:00Z",
+      "moistureLevel": 34.5,
+      "temperature": 18.5
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-07T01:00:00Z",
+      "moistureLevel": 34.0,
+      "temperature": 18.3
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-08T00:00:00Z",
+      "moistureLevel": 33.0,
+      "temperature": 18.0
+    },
+    {
+      "sensorId": "sensor-001",
+      "timestamp": "2024-11-08T01:00:00Z",
+      "moistureLevel": 32.5,
+      "temperature": 17.8
+    }
+  ]
+  
